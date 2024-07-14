@@ -4,6 +4,6 @@ We provide a simple inference script from HuggingFace in *inference.py*. You can
 
 **Download the model from [https://pan.baidu.com/s/1ls7baMfok8NtucCKVOyS1Q] (code: 7952)**
 
-**Download the dataset from [https://pan.baidu.com/s/1kW7InCtnjioD_zAUyH2qag] (code: t6rf)**
+**Download the dataset from [https://pan.baidu.com/s/1ruJAzxJrctRwAp8RLdsUgA] (code: u3k7)**
 
 Start your Efficient-Inference journey!
